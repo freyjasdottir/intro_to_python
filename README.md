@@ -1,1 +1,1 @@
-A small bit of practice in python control flow.
+A small bit of practice in python.
